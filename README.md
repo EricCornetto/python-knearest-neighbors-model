@@ -1,4 +1,4 @@
-===========K-Nearest Neighbors Model==================================
+===========K-Nearest Neighbors Model========================================
   *   K-Nearest Neighbors Algorithm.
 =============================================================================
   *   Created By Eric Theodore Cornetto(Ida Bagus Dwi Putra Purnawa).
